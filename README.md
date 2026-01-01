@@ -9,7 +9,8 @@ The goal is to keep a clean and organized overview of all app-focused repositori
 
 | Category | Description | Repository |
 |:----------|-------------|----------:|
-|[📈 PowerBi Finanzas](https://github.com/MiguelAdePablo/PowerBI-Finanzas)| Tailored report with a dashboard to monitor the investment portfolio and pages to study potential investments|[View Repository](https://github.com/MiguelAdePablo/PowerBI-Finanzas)|
+|[📈 PowerBi Finanzas](https://github.com/MiguelAdePablo/PowerBI-Finanzas)| Tailored report with a dashboard to monitor the investment portfolio and pages to study potential investments.|[View Repository](https://github.com/MiguelAdePablo/PowerBI-Finanzas)|
+|[📈 PowerBi Data Toggle](https://github.com/MiguelAdePablo/PBI_toggle)| An example of Data toggle using PowerBi's own tools.|[View Repository](https://github.com/MiguelAdePablo/PBI_toggle)|
 |🚧 Coming More|More new application projects will be added here as development continues.| --- |
 
 # Notes
